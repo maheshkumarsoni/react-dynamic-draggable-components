@@ -2,12 +2,17 @@
   "name": "ilocalbox-dragable-component",
   "version": "0.1.0",
   "private": true,
+  "keywords": [],
+  "main": "src/index.js",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
     "@testing-library/user-event": "^7.2.1",
+    "github-pages": "^3.0.2",
+    "lodash": "^4.17.20",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-grid-layout": "^1.1.1",
     "react-scripts": "3.4.3"
   },
   "scripts": {
